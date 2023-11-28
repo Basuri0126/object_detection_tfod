@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Inventory pictures</folder>
+	<filename>IMG-20231020-WA0014.jpeg</filename>
+	<path>C:\Users\Shivam\PycharmProjects\tzuroni_cv\Inventory pictures\IMG-20231020-WA0014.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2052</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>other</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>850</ymin>
+			<xmax>1960</xmax>
+			<ymax>2618</ymax>
+		</bndbox>
+	</object>
+</annotation>

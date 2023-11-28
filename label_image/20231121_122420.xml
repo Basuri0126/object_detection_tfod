@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Inventory pictures</folder>
+	<filename>20231121_122420.jpg</filename>
+	<path>C:\Users\Shivam\PycharmProjects\tzuroni_cv\Inventory pictures\20231121_122420.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>other</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>732</xmin>
+			<ymin>688</ymin>
+			<xmax>2120</xmax>
+			<ymax>1782</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>other</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>409</xmin>
+			<ymin>1453</ymin>
+			<xmax>2061</xmax>
+			<ymax>2364</ymax>
+		</bndbox>
+	</object>
+</annotation>

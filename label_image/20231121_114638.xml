@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Inventory pictures</folder>
+	<filename>20231121_114638.jpg</filename>
+	<path>C:\Users\Shivam\PycharmProjects\tzuroni_cv\Inventory pictures\20231121_114638.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1156</xmin>
+			<ymin>1811</ymin>
+			<xmax>2679</xmax>
+			<ymax>3435</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>664</ymin>
+			<xmax>1261</xmax>
+			<ymax>3211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>900</ymin>
+			<xmax>573</xmax>
+			<ymax>3011</ymax>
+		</bndbox>
+	</object>
+</annotation>

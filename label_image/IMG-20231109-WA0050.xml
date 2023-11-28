@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Inventory pictures</folder>
+	<filename>IMG-20231109-WA0050.jpeg</filename>
+	<path>C:\Users\Shivam\PycharmProjects\tzuroni_cv\Inventory pictures\IMG-20231109-WA0050.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2052</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<ymin>939</ymin>
+			<xmax>2013</xmax>
+			<ymax>2797</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>586</xmin>
+			<ymin>2508</ymin>
+			<xmax>1897</xmax>
+			<ymax>3544</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>box</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>587</ymin>
+			<xmax>1444</xmax>
+			<ymax>992</ymax>
+		</bndbox>
+	</object>
+</annotation>
